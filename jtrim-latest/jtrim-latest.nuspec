@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>jtrim-latest</id>
+    <version>1.53</version>
+    <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
+    <owners>S.Teruyama</owners>
+    <title>jtrim-latest (Install)</title>
+    <authors>WoodyBells</authors>
+    <projectUrl>http://www.woodybells.com/jtrim.html</projectUrl>
+    <copyright>WoodyBells</copyright>
+    <tags>jtrim,drawing,photo,images,graphics</tags>
+    <summary>JTrim is a software which can resize and apply many effects and has extra functions.</summary>
+    <description>JTrim is a photo retouching software that is easy to use, even for beginners. Many processing functions are available to give various effects to your images. The software is very light and can be operated without stress. </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
